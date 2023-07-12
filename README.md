@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<a href="https://app.daily.dev/hetuuuski"><img src="https://api.daily.dev/devcards/cad288b3d36d4161b1ab3b3f2fbc694c.png?r=dlp" width="400" alt="Het Jasani's Dev Card"/></a> 
+<a href="https://app.daily.dev/hetuuuski"><img src="https://api.daily.dev/devcards/cad288b3d36d4161b1ab3b3f2fbc694c.png?r=a91" width="400" alt="Het Jasani's Dev Card"/></a>
 
 - 🌱 &nbsp; Learning more about Blockchain Development, Database Architecture, CLI Tools. 
  - ✍️ &nbsp; Studying at Government Polytechnic Institute, Jamnagar 
